@@ -1,0 +1,13 @@
+name: image-classification
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - matplotlib-base
+  - numpy
+  - pip
+  - py-opencv=3.4.1
+  - python=3.6.6
+  - scikit-learn
+  - scipy
+  - spyder
